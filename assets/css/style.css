@@ -16,7 +16,7 @@ body{
   padding: 30% 3%;
   height: 100vh;
   box-sizing: border-box;
-  background-image: url(/assets/image/beachshowcase.jpg);
+  background-image: url(https://traversymedia.com/downloads/assets/beachshowcase.jpg); 
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
